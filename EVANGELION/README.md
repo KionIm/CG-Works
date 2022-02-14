@@ -9,3 +9,6 @@ https://www.youtube.com/watch?v=h9n2GBCIAb0
 
 キャラクター選択＆サーバー接続・同期
 https://www.youtube.com/watch?v=Ol4yfAL5nh8
+
+OpenGLでのアニメーションのブレンド
+https://youtu.be/dlrbPWg-gsw
